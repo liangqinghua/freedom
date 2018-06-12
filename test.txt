@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-many people put off to tomorrow
+many people put off to tomorrow.
+pride comes before a fall.
